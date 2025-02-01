@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.1",
+    "fs-extra": "^11.3.0",
+    "tmp": "^0.2.3"
+  }
+}
