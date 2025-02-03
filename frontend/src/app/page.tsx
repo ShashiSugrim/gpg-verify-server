@@ -294,7 +294,7 @@ export default function Home() {
             GPG Signature Verification
           </h1>
           <p className="mt-1 text-xs text-gray-500">
-            Note: 1 request every 6 seconds
+            Note: 1 request every 6 seconds & 2 simultaneous requests max
           </p>
         </div>
 
